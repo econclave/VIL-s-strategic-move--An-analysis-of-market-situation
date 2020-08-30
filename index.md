@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# VIL’s strategic move- An analysis of market situation
 
-You can use the [editor on GitHub](https://github.com/econclave/VIL-s-strategic-move--An-analysis-of-market-situation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Reliance Jio’s footing in the market is reaping havoc for most players in the telecommunication industry. A potential response for Jio’s low pricing aggressive strategy was the strategic merger of Vodafone Group and Aditya Birla Group, which led to the inception of India’s biggest phone company, by number of subscribers, VIL. A merger is when two or more firms come together in friendly terms to expand their operations. But though this seems to be more of a survival strategy, on records, this is a strategic merger. This was a move which kept VIL's hopes of existence alive, but they don’t seem to stop with that. In a recent announcement, they have got their Board’s approval for raising Rs. 25000 cr by way of rights issue.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fund raising is a routine phenomenon, but rights issue needs more study. This move could be either because of the advantages that it has to offer or due the present market situation.
 
-### Markdown
+![The merger of the Telecom giants](https://images.unsplash.com/photo-1510919875728-30673d2cf01d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Rights issue has a lot of advantages to offer. It’s a secure and reliable way to raise money, as the existing shareholders are already known parties to the company. The issuing company can issue bypassing underwriting fees and it does not require any shareholder approval. For existing shareholders too, they can buy additional share and it does not dilute the stake of the existing shareholders. If the shares are offered to the public, then new investors will buy the share and the number of shareholders will increase and thus, dilutes the power of the existing shareholders. It could also be because there are no other viable financing options. This leads us to analyze the present market situation.
 
-```markdown
-Syntax highlighted code block
+The nearing election is the peak of investor uncertainty and consequently the biggest democracy is about to exercise it General elections. This is also a phase of political turbulence where most investors are dubious about investing. Also, the recent issue surrounding the RBI is a big factor here. The lack of freedom for the Central bank would worry the investors more than anyone else. The weakening rupee in the present market is also to be considered. Recent reports say that the market is in a bearish state, where the stock prices are not increasing and that there is a pessimistic mentality among investors. But why can’t the company go for debt investment if the equity doors are shut. Though the falling interest rates are a malicious deception of sorts, the truth lies in the fact that the interest rates are to raise in the long term, which makes debt financing unviable. The credit culture also seems to take a downturn after large bankruptcy and non-repayment by a few business tycoons; Vijay Mallya and Nirav Modi to name a few. Lender’s confidence has eroded also due to the recent news surrounding Jet Airways
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/econclave/VIL-s-strategic-move--An-analysis-of-market-situation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All these factors have a big impact in the way an organization decides to raise its funds. Source of capital is a huge and critical decision for any organization. The cost of capital would also be worked out to get a better picture of the capital options available. With external funding turning to be futile, VIL is only to resort to internal funding to raise money.
